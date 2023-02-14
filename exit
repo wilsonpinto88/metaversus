@@ -1,0 +1,35 @@
+[33mcommit eabebccbc8f9895e320cc64fb370b5c309168b50[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Wilson Pinto <wilsonpinto88@gmail.com>
+Date:   Mon Feb 13 17:54:24 2023 +0000
+
+    added the whole Explore section, w/ ExploreCards
+
+[33mcommit 2cf79d1e06379cc244dc2440337afa7b772679d4[m
+Author: Wilson Pinto <wilsonpinto88@gmail.com>
+Date:   Mon Feb 13 15:31:45 2023 +0000
+
+    added Explore section
+
+[33mcommit d5735cb30adbddf4247605fa6c930404bf934cd1[m
+Author: Wilson Pinto <wilsonpinto88@gmail.com>
+Date:   Fri Feb 10 17:02:30 2023 +0000
+
+    added about
+
+[33mcommit 88d482bb9eeba128355a828268bdba9e822666e9[m
+Author: Wilson Pinto <wilsonpinto88@gmail.com>
+Date:   Fri Feb 10 12:40:25 2023 +0000
+
+    added navbar and hero
+
+[33mcommit 5bd3e968bffcf180a5453aaf7538ab52bbc49796[m
+Author: Wilson Pinto <wilsonpinto88@gmail.com>
+Date:   Fri Feb 10 11:42:31 2023 +0000
+
+    started navbar layout design
+
+[33mcommit 5c9e4e347381e18eab724f5b640a952b068b091e[m
+Author: Wilson Pinto <wilsonpinto88@gmail.com>
+Date:   Fri Feb 10 10:57:09 2023 +0000
+
+    started project template
